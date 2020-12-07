@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-12-07T14:38:35.997Z</updated>
+  <updated>2020-12-07T23:23:16.174Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Ecclesiastes reading notes</title>
+    <link href="http://example.com/2020/12/08/Ecclesiastes-reading-notes/"/>
+    <id>http://example.com/2020/12/08/Ecclesiastes-reading-notes/</id>
+    <published>2020-12-07T22:58:50.000Z</published>
+    <updated>2020-12-07T23:23:16.174Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="QOHELET-SON-OF-DAVID"><a href="#QOHELET-SON-OF-DAVID" class="headerlink" title="QOHELET SON OF DAVID"></a>QOHELET SON OF DAVID</h4><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs markdown"><span class="hljs-bullet">*</span> QUHELET： HEBREW: ONE WHO GATERS PEOPLE<br><br><span class="hljs-section"># DIFFERENT VIEWS ON AUTHORSHIP</span><br></code></pre></td></tr></table></figure><hr><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><code class="hljs shell"><span class="hljs-meta">#</span><span class="bash"> 1:3 - 12:</span><br><br>*HEVEL, HEVEL, EVERYTHING UNDER THE SUN IS UTTERLY HEVEL.<br><span class="hljs-meta">&gt;</span><span class="bash">HEBREW VAPOR, SMOKE --USED 38 TIMES</span><br><span class="hljs-meta">&gt;</span><span class="bash"><span class="hljs-variable">$TEMPORARY</span> FLEETING</span><br><span class="hljs-meta">&gt;</span><span class="bash"><span class="hljs-variable">$ENIGMA</span> PARADOX</span><br><br><span class="hljs-meta">&gt;</span><span class="bash">LIKE CHASING AFTER THE WIND.</span><br></code></pre></td></tr></table></figure><hr><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><code class="hljs plain"># THE AUTHOR&#39;S BASIC GOAL<br>&gt; TO LET THE TEACHER DECONSTRAUCT ALL THE WAYS WE FIND MEANING &amp; PURPOSE APART FROM GOD.<br><br>^TIME<br>&gt; t03:18 translation<br>&gt; TIME WILL EVENTUALLY ERASE YOU, ME, AND ALL WE CARE ABOUT.<br><br>^ DEATH<br>&gt; THE GREAT EQUALIZER<br>&gt; MONDAY ALWAYS COMES.<br><br>&lt; WISDOM<br>&lt; FEAR OF THE LORD [SEE 9:13-18]<br><br></code></pre></td></tr></table></figure><hr><figure class="highlight ada"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><code class="hljs ada"># HOW <span class="hljs-keyword">DO</span> YOU LIVE LIFE <span class="hljs-keyword">IN</span> THE MIDST <span class="hljs-keyword">OF</span> HEVEL?<br>&gt; <span class="hljs-keyword">ACCEPT</span> THAT <span class="hljs-keyword">ALL</span> <span class="hljs-keyword">OF</span> LIFE <span class="hljs-keyword">IS</span> <span class="hljs-keyword">OUT</span> <span class="hljs-keyword">OF</span> YOUR CONTROL.<br><br>^ THE GIFT <span class="hljs-keyword">OF</span> GOD.<br>^ ENJOY FRIENDSHIP, FAMILY, GOOD MEAL, SUNNY DAY.<br><br></code></pre></td></tr></table></figure><hr><figure class="highlight mipsasm"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs mipsasm"><span class="hljs-comment"># CONCLUSION &amp; EVALUATION OF THE TEACHER</span><br>&gt; THE CONCLUSION:<br>&gt; FEAR GOD <span class="hljs-keyword">AND </span>KEEP KSI COMMANDS - THIS IS THE WHOLE DUTY OF HUMANS<span class="hljs-comment">; FOR GOD WILL BRING EVERY DEED INTO JUDGMENT, EVERY HIDDEN THING, WHETHER GOOD OR EVIL [12:13 - 14]</span><br></code></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h4 id=&quot;QOHELET-SON-OF-DAVID&quot;&gt;&lt;a href=&quot;#QOHELET-SON-OF-DAVID&quot; class=&quot;headerlink&quot; title=&quot;QOHELET SON OF DAVID&quot;&gt;&lt;/a&gt;QOHELET SON OF DAVID&lt;/h4&gt;&lt;</summary>
+      
+    
+    
+    
+    
+    <category term="soul" scheme="http://example.com/tags/soul/"/>
+    
+    <category term="ecclesiastes" scheme="http://example.com/tags/ecclesiastes/"/>
+    
+    <category term="teacher" scheme="http://example.com/tags/teacher/"/>
+    
+  </entry>
   
   <entry>
     <title>About 912-note</title>
