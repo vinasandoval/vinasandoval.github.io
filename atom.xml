@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-12-06T06:49:02.501Z</updated>
+  <updated>2020-12-07T14:38:35.997Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>About 912-note</title>
+    <link href="http://example.com/2020/12/07/About-912-note/"/>
+    <id>http://example.com/2020/12/07/About-912-note/</id>
+    <published>2020-12-07T14:16:34.000Z</published>
+    <updated>2020-12-07T14:38:35.997Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="Task-Level"><a href="#Task-Level" class="headerlink" title="Task Level"></a>Task Level</h4><figure class="highlight asciidoc"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><code class="hljs asciidoc"><span class="hljs-bullet">** </span>important<br><span class="hljs-bullet">** </span>emergency<br><span class="hljs-bullet">** </span>optional<br><span class="hljs-bullet">** </span>necessary<br><br>## long term mission<br>## medium term mission<br>## short term mission<br><br><span class="hljs-bullet">** </span>main<br><span class="hljs-bullet">** </span>side<br></code></pre></td></tr></table></figure><hr><h4 id="How-to-check-processing-everyday"><a href="#How-to-check-processing-everyday" class="headerlink" title="How to check processing everyday?"></a>How to check processing everyday?</h4><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs shell"><span class="hljs-meta">#</span><span class="bash"><span class="hljs-comment"># Create standard pipe-line to measure where are you.</span></span><br><span class="hljs-meta">#</span><span class="bash"><span class="hljs-comment"># List what are your doing right now.</span></span><br><span class="hljs-meta">#</span><span class="bash"><span class="hljs-comment"># Check what is valuable for you and your mission. This is very important.</span></span><br></code></pre></td></tr></table></figure><h4 id="Focus-on-what-is-important"><a href="#Focus-on-what-is-important" class="headerlink" title="Focus on what is important."></a>Focus on what is important.</h4><figure class="highlight applescript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs applescript"><span class="hljs-comment">## Do one thing at a time, and do it well.</span><br>   - What <span class="hljs-keyword">is</span> <span class="hljs-string">&quot;well&quot;</span> mean?<br>   - <span class="hljs-built_in">record</span> <span class="hljs-keyword">first</span><br>   - modify <span class="hljs-keyword">over</span> <span class="hljs-keyword">and</span> <span class="hljs-keyword">over</span> again <span class="hljs-keyword">for</span> perfect<br>   - I can find <span class="hljs-keyword">it</span> anytime I need<br></code></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h4 id=&quot;Task-Level&quot;&gt;&lt;a href=&quot;#Task-Level&quot; class=&quot;headerlink&quot; title=&quot;Task Level&quot;&gt;&lt;/a&gt;Task Level&lt;/h4&gt;&lt;figure class=&quot;highlight asciidoc&quot;&gt;&lt;table</summary>
+      
+    
+    
+    
+    
+    <category term="important" scheme="http://example.com/tags/important/"/>
+    
+    <category term="medium term mission" scheme="http://example.com/tags/medium-term-mission/"/>
+    
+    <category term="main" scheme="http://example.com/tags/main/"/>
+    
+    <category term="912" scheme="http://example.com/tags/912/"/>
+    
+    <category term="Tsing Hua" scheme="http://example.com/tags/Tsing-Hua/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
