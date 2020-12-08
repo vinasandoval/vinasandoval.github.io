@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-12-07T23:23:16.174Z</updated>
+  <updated>2020-12-08T15:15:39.697Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Summary simple Dec 8</title>
+    <link href="http://example.com/2020/12/08/Summary-simple-Dec-8/"/>
+    <id>http://example.com/2020/12/08/Summary-simple-Dec-8/</id>
+    <published>2020-12-08T15:04:01.000Z</published>
+    <updated>2020-12-08T15:15:39.697Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="What-can-I-learn-form-today"><a href="#What-can-I-learn-form-today" class="headerlink" title="What can I learn form today?"></a>What can I learn form today?</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs plain">## QT<br>&gt; Style sheet for plugin like button, frame, picture modify and so on<br>&gt; The final work just like PS or other app<br>&gt; If I have time, I will carefully study the image watermark processing<br></code></pre></td></tr></table></figure><hr><figure class="highlight applescript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs applescript"><span class="hljs-comment">## Linux Kernel</span><br>&gt; How <span class="hljs-keyword">to</span> malloc memory <span class="hljs-keyword">in</span> linux<br>&gt; The datastructure <span class="hljs-keyword">is</span> very interesting, you can dig <span class="hljs-keyword">it</span> out untill you <span class="hljs-built_in">real</span> understand <span class="hljs-keyword">it</span> crystal<br>&gt; And you can solve <span class="hljs-keyword">the</span> ip address problem <span class="hljs-keyword">on</span> centos7 <span class="hljs-keyword">for</span> you can upload <span class="hljs-built_in">file</span> <span class="hljs-keyword">and</span> compile ds test demo<br>&gt; Most important, <span class="hljs-keyword">the</span> practice <span class="hljs-keyword">for</span> memory alloc <span class="hljs-keyword">is</span> necessary.<br></code></pre></td></tr></table></figure><hr><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs plain">## CPOC<br>&gt; Understand the memory design by coe.<br>&gt; Why mm address wrong?<br>&gt; Solve it.<br></code></pre></td></tr></table></figure><h4 id="What-is-NEXT"><a href="#What-is-NEXT" class="headerlink" title="What is NEXT?"></a>What is NEXT?</h4><figure class="highlight clean"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs clean">## Prepare for <span class="hljs-keyword">class</span> talk on Thursday. That<span class="hljs-string">&#x27;s all. </span><br></code></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h4 id=&quot;What-can-I-learn-form-today&quot;&gt;&lt;a href=&quot;#What-can-I-learn-form-today&quot; class=&quot;headerlink&quot; title=&quot;What can I learn form today?&quot;&gt;&lt;/a&gt;What</summary>
+      
+    
+    
+    
+    
+    <category term="important" scheme="http://example.com/tags/important/"/>
+    
+    <category term="medium term mission" scheme="http://example.com/tags/medium-term-mission/"/>
+    
+    <category term="main" scheme="http://example.com/tags/main/"/>
+    
+  </entry>
   
   <entry>
     <title>Ecclesiastes reading notes</title>

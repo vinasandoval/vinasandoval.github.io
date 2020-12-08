@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/2020/12/08/Summary-simple-Dec-8/</loc>
+    
+    <lastmod>2020-12-08</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://example.com/2020/12/08/Ecclesiastes-reading-notes/</loc>
     
     <lastmod>2020-12-07</lastmod>
@@ -25,7 +32,7 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2020-12-07</lastmod>
+    <lastmod>2020-12-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -33,56 +40,56 @@
   
   <url>
     <loc>http://example.com/tags/important/</loc>
-    <lastmod>2020-12-07</lastmod>
+    <lastmod>2020-12-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/medium-term-mission/</loc>
-    <lastmod>2020-12-07</lastmod>
+    <lastmod>2020-12-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/main/</loc>
-    <lastmod>2020-12-07</lastmod>
+    <lastmod>2020-12-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/912/</loc>
-    <lastmod>2020-12-07</lastmod>
+    <lastmod>2020-12-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/Tsing-Hua/</loc>
-    <lastmod>2020-12-07</lastmod>
+    <lastmod>2020-12-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/soul/</loc>
-    <lastmod>2020-12-07</lastmod>
+    <lastmod>2020-12-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/ecclesiastes/</loc>
-    <lastmod>2020-12-07</lastmod>
+    <lastmod>2020-12-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/teacher/</loc>
-    <lastmod>2020-12-07</lastmod>
+    <lastmod>2020-12-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
